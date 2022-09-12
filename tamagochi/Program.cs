@@ -2,9 +2,13 @@
 
 Console.WriteLine("Welcome");
 
-Tamagotchi Tama = new Tamagotchi;
+Tamagotchi tama = new Tamagotchi();
 
-Console.WriteLine("Enter a name of your Tamagotchi");
-Tama.name = Console.ReadLine();
+tama.Feed();
 
-Console.WriteLine($" ööö {Tama.name} ööö");
+// Console.WriteLine("Enter a name of your Tamagotchi");
+// Tama.name = Console.ReadLine();
+
+// Console.WriteLine($" die {Tama.name} you suck");
+
+// while (

@@ -1,0 +1,16 @@
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\bin\Debug\net5.0\tamagochi.exe
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\bin\Debug\net5.0\tamagochi.deps.json
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\bin\Debug\net5.0\tamagochi.runtimeconfig.json
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\bin\Debug\net5.0\tamagochi.runtimeconfig.dev.json
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\bin\Debug\net5.0\tamagochi.dll
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\bin\Debug\net5.0\tamagochi.pdb
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\obj\Debug\net5.0\tamagochi.csproj.AssemblyReference.cache
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\obj\Debug\net5.0\tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\obj\Debug\net5.0\tamagochi.AssemblyInfoInputs.cache
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\obj\Debug\net5.0\tamagochi.AssemblyInfo.cs
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\obj\Debug\net5.0\tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\obj\Debug\net5.0\tamagochi.dll
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\obj\Debug\net5.0\refint\tamagochi.dll
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\obj\Debug\net5.0\tamagochi.pdb
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\obj\Debug\net5.0\tamagochi.genruntimeconfig.cache
+C:\Users\torell.jordan\Documents\Prog2\tamagochi\tamagochi\obj\Debug\net5.0\ref\tamagochi.dll

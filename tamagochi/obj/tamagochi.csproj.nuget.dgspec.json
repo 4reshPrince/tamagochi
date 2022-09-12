@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\torell.jordan\\Documents\\Prog2\\tamagochi\\tamagochi\\tamagochi.csproj": {}
+    "C:\\Users\\torell.jordan\\Documents\\Prog2\\tamagochi\\tamagochi\\tamagochi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\torell.jordan\\Documents\\Prog2\\tamagochi\\tamagochi\\tamagochi.csproj": {
+    "C:\\Users\\torell.jordan\\Documents\\Prog2\\tamagochi\\tamagochi\\tamagochi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\torell.jordan\\Documents\\Prog2\\tamagochi\\tamagochi\\tamagochi.csproj",
+        "projectUniqueName": "C:\\Users\\torell.jordan\\Documents\\Prog2\\tamagochi\\tamagochi\\tamagochi.csproj",
         "projectName": "tamagochi",
-        "projectPath": "c:\\Users\\torell.jordan\\Documents\\Prog2\\tamagochi\\tamagochi\\tamagochi.csproj",
+        "projectPath": "C:\\Users\\torell.jordan\\Documents\\Prog2\\tamagochi\\tamagochi\\tamagochi.csproj",
         "packagesPath": "C:\\Users\\torell.jordan\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\torell.jordan\\Documents\\Prog2\\tamagochi\\tamagochi\\obj\\",
+        "outputPath": "C:\\Users\\torell.jordan\\Documents\\Prog2\\tamagochi\\tamagochi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\torell.jordan\\AppData\\Roaming\\NuGet\\NuGet.Config"
