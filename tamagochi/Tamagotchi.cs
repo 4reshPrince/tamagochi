@@ -3,8 +3,8 @@ using System.Collections.Generic;
 
 public class Tamagotchi
 {
-    private int hunger = 0;
-    private int boredom = 0;
+    private int hunger;
+    private int boredom;
     private List<string> words = new();
     private bool isAlive;
     private Random generator;
@@ -55,7 +55,7 @@ public class Tamagotchi
         Console.WriteLine($"Name: {name} || Hunger: {hunger} || Boredom: {boredom} || Vocabulary: {words.Count} words");
     }
 
-    public void GetAlive()
+    public bool GetAlive()
     {
         return isAlive;
     }
