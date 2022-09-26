@@ -1,23 +1,23 @@
 ﻿using System;
 
-Console.WriteLine("Welcome to Tamagotchi!");
+Console.WriteLine("Welcome to Tamagotchi asshole!");
 
 Tamagotchi myTama = new Tamagotchi();
 
-Console.WriteLine("Please choose a name for your Tamagotchi!");
+Console.WriteLine("Choose a freaking name for your Tamagotchi!");
 myTama.name = Console.ReadLine();
 
-Console.WriteLine($"Great! {myTama.name} is a beautiful name!");
+Console.WriteLine($"Fucking fantastic! {myTama.name} you are done!");
 
 while (myTama.GetAlive() == true)
 {
   Console.Clear();
   myTama.PrintStats();
-  Console.WriteLine("Now what do you want to do?");
-  Console.WriteLine($"1. Teach {myTama.name} a new word");
+  Console.WriteLine("What the hell do you want to do now?");
+  Console.WriteLine($"1. Teach {myTama.name} a new fucking word");
   Console.WriteLine($"2. Talk to {myTama.name}");
   Console.WriteLine($"3. Feed {myTama.name}");
-  Console.WriteLine($"4. Do nothing");
+  Console.WriteLine($"4. Maybe waste my time to to do nothing");
 
   string doWhat = Console.ReadLine();
   if (doWhat == "1")
@@ -42,6 +42,6 @@ while (myTama.GetAlive() == true)
   
 }
 
-Console.WriteLine($"OH NO! {myTama.name} is dead!");
-Console.WriteLine("Press ENTER to quit");
+Console.WriteLine($"Well la di da! {myTama.name} is already dead!");
+Console.WriteLine("Press ENTER to leave dipshit!!!");
 Console.ReadLine();
